@@ -64,4 +64,4 @@ inside the folder
   dotnet ef database update
   ```
 
-If so far everything has gone as it should, you can test the api
+If so far everything has gone as it should, you can test the api, enjoy ✨
