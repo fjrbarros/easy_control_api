@@ -1,0 +1,47 @@
+# Version control system files and directories
+.git
+.gitignore
+.gitattributes
+
+# Visual Studio configuration files and directories
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and publish files and directories
+bin/
+obj/
+out/
+*.exe
+*.pdb
+*.dll
+*.dll.config
+*.nupkg
+*.cache
+*.bak
+
+# Test files and directories
+TestResults/
+*.testsettings
+*.testrunconfig
+*.trx
+*.vsmdi
+
+# Log files and directories
+logs/
+*.log
+
+# Package files and directories
+packages/
+node_modules/
+
+# Other ignored files and directories
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.dbmdl
+*.pfx
+*.publishsettings

@@ -1,0 +1,49 @@
+# Build and debug files
+bin/
+obj/
+out/
+
+# Package files
+packages/
+*.nupkg
+project.lock.json
+.nuget/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test files
+TestResults/
+
+# Environment configuration files
+*.env
+
+# Local configuration files
+*.cfg
+*.config
+*.json
+
+# Other ignored files and directories
+*.bak
+*.swp
+*.swo
+*.pid
+*.pid.lock
+*.secrets
+*.pfx
+*.publishsettings
